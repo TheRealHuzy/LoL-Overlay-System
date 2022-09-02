@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>X:\Visual Studio Projects\LOS\LOS\Properties\PublishProfiles\ClickOnceProfile2.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="SetupFormEnterApiKey.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SetupFormEnterSummonerName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AuxFormLoading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMainOverlay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormOptions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormOptionsNExit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AuxFormWarningMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SetupFormLoadingBar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

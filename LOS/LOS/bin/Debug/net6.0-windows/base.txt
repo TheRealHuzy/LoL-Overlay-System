@@ -1,0 +1,1 @@
+{"version":"12.16.1","apiKey":"RGAPI-f4e75390-f1e8-4caf-ac13-a0bb90389b76","lolClientLocation":null,"defaultSummoner":"Lord Huzix","summonerData":[{"summonerId":"JGjFeKgFrQgl1FnNc3fxGTjEfJxuvkJUPeSrjlkH-JaatGI","summonerName":"Lord Huzix"}]}
