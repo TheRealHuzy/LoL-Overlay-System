@@ -7,7 +7,7 @@ This application, as the name suggest, works like an overlay for Client of a pop
 The latest version 2.0 release notes are available [here](https://github.com/TheRealHuzy/LoL-Overlay-System/releases/tag/v2.0.0).
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TheRealHuzy/LoL-Overlay-System/main/Images/OverlayPicture01.png" />
+  <img src="https://raw.githubusercontent.com/TheRealHuzy/LoL-Overlay-System/main/Images/LOSv2-04.png" />
 </p>
 
 This application can be download from [here](https://github.com/TheRealHuzy/LoL-Overlay-System/releases/download/v2.0.0/LoL.Overlay.System.v2.zip).
