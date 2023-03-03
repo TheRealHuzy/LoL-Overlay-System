@@ -1,4 +1,4 @@
-﻿namespace CCW
+﻿namespace LOS
 {
     partial class Form1
     {

@@ -1,4 +1,4 @@
-namespace CCW
+namespace LOS
 {
     internal static class Program
     {

@@ -1512,11 +1512,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "X:\\Visual Studio Projects\\CCW\\CCW\\CCW.csproj",
-      "projectName": "CCW",
-      "projectPath": "X:\\Visual Studio Projects\\CCW\\CCW\\CCW.csproj",
+      "projectUniqueName": "X:\\AIR GitHub\\LoL-Overlay-System\\DevelopmentApps\\CCW\\CCW\\LOS.csproj",
+      "projectName": "LOS",
+      "projectPath": "X:\\AIR GitHub\\LoL-Overlay-System\\DevelopmentApps\\CCW\\CCW\\LOS.csproj",
       "packagesPath": "C:\\Users\\Huzy\\.nuget\\packages\\",
-      "outputPath": "X:\\Visual Studio Projects\\CCW\\CCW\\obj\\",
+      "outputPath": "X:\\AIR GitHub\\LoL-Overlay-System\\DevelopmentApps\\CCW\\CCW\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Huzy\\AppData\\Roaming\\NuGet\\NuGet.Config",
