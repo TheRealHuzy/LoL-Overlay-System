@@ -10,10 +10,12 @@ The latest version release notes are available [here](https://github.com/TheReal
   <img src="https://raw.githubusercontent.com/TheRealHuzy/LoL-Overlay-System/main/Images/LOSv2-04.png" />
 </p>
 
-This application can be download from [here](https://github.com/TheRealHuzy/LoL-Overlay-System/releases/download/v2.0.0/LoL.Overlay.System.v2.zip).
+This application can be download from [here](https://github.com/TheRealHuzy/LoL-Overlay-System/releases/download/v.2.0.1/LoL.Overlay.System.v2.1.zip).
 
 If you need any help with setting this up there is a [setup page](https://github.com/TheRealHuzy/LoL-Overlay-System/wiki/Setup) for additional information and setup steps.
 
-If you want to update from version 1 you can follow the guide steps described [here](https://github.com/TheRealHuzy/LoL-Overlay-System/releases/tag/v2.0.0) at the end titled Manual update.
+New features from version 2.0 are described [here](https://github.com/TheRealHuzy/LoL-Overlay-System/releases/tag/v2.0.0) in more detail.
+
+If you want to update from version 2 you can follow the guide steps described [here](https://github.com/TheRealHuzy/LoL-Overlay-System/releases/tag/v.2.0.1) at the end titled Manual update.
 
 Visit [Wiki page](https://github.com/TheRealHuzy/LoL-Overlay-System/wiki) for additional info.
